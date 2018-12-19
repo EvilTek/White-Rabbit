@@ -6,7 +6,7 @@ https://eviltek.net/<br /><br />
 
 A Very simple Stenography technique<br />
 using a cute and fluffy white bunny.<br />
-"That's no orrrdianry rrrrabit!"<br />
+"That's no orrrdianry rrrrabbit!"<br />
 
 Object:<br />
 Create a PNG image containing some files.<br /><br />
